@@ -6,4 +6,4 @@ __pycache__/
 .venv/
 env/
 database.db
-/database.db
+./crm/database.db
